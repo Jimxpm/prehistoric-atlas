@@ -2,6 +2,10 @@
 
 繁體中文數位自然史展覽。目前包含首頁及奇蝦、歐巴賓海蠍、鄧氏魚三個介紹頁；本地擴充與圖片整合已完成。請以此目錄作為專案根目錄，無須建立額外子專案。長期規則見 AGENTS.md。
 
+公開網站：https://jimxpm.github.io/prehistoric-atlas/
+
+Repository：https://github.com/Jimxpm/prehistoric-atlas
+
 ## 建置與預覽
 
 需要 Python 3.9 以上，無第三方套件、API 金鑰、後端或資料庫。
@@ -84,7 +88,7 @@ image_metadata.type 只能為 placeholder、ai、licensed。null 圖片必須使
 
 ## 純靜態與子路徑相容性
 
-所有站內資源使用相對路徑，離線測試驗證 /repository-name/ 子路徑解析。無外部字型、CDN 或執行期依賴。現正進行公開部署前檢查；實際發布結果以 VALIDATION.md 最新紀錄為準。
+所有站內資源使用相對路徑，離線測試驗證 /repository-name/ 子路徑解析。無外部字型、CDN 或執行期依賴。已完成 GitHub Pages 公開部署；驗收結果見 VALIDATION.md。
 
 ## 本次驗收
 

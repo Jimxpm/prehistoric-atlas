@@ -1,6 +1,17 @@
 # 專案驗收紀錄
 
-## 公開部署前檢查（2026-11-15；等待授權與確認）
+## GitHub Pages 公開部署驗收（2026-11-15）
+
+- 使用者已確認公開範圍並完成 CLI 授權。Repository：https://github.com/Jimxpm/prehistoric-atlas （Public）。
+- 網站：https://jimxpm.github.io/prehistoric-atlas/ 。Pages 發布來源為 main 分支根目錄，.nojekyll 直接提供靜態成品。
+- 首次提交 d5da18f 已推送；Pages 狀態 built，發布工作流程 43723115329 completed / success。文件更新另行提交並同步推送。
+- 部署階段重新建置成功（3 物種、4 頁、0 暫代）；14 項 unittest 全數通過。
+- 未登入 HTTP 檢查共 12 個 URL 均回傳 200：首頁／index.html、三個物種頁、CSS、四張 WebP、公開 Repository 與 AGENTS.md。所有頁面內的站內 href/src 和錨點逐一解析並檢查，未發現 404 或資源路徑錯誤。頁面不含本機 D: 路徑。
+- 公開網站瀏覽器檢視：桌面首頁 1440×1000；手機首頁及三個物種頁 390×844。圖片載入成功，文字可讀，手機頁面無水平溢出；實際點擊物種間導覽與返回展覽。
+- SUBMISSION_DRAFT.md 已填入真實 Repository 與網站網址，保留完整 AGENTS.md，補強先建規則／JSON／共用模板再以兩物種驗證擴充性的說明。未代交課程作業。
+- 原始 PNG 全部保留本地且未追蹤；公開檔案不含快取、虛擬環境或已知敏感資料。仍未執行實體裝置、多瀏覽器與完整無障礙稽核。
+
+## 公開部署前檢查（歷史紀錄；授權與確認已完成）
 
 - 重新建置成功：3 個物種、4 個頁面、0 個暫代圖片；14 項 unittest 全數通過，包含相對連結、錨點與專案子路徑解析。
 - 四張 WebP 解碼成功；網站沒有 JavaScript 依賴。待公開清單為 27 個檔案，包含規則、資料、模板、生成器、測試、文件與靜態成品。
