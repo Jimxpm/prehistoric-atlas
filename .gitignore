@@ -1,0 +1,27 @@
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+# Local credentials and tooling
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.codex/
+.agents/
+.tools/
+# Temporary and OS files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+# Original artwork remains local; website uses WebP
+/assets/images/*.png

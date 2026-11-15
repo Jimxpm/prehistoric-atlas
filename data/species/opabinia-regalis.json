@@ -1,0 +1,67 @@
+{
+  "id": "opabinia-regalis",
+  "name_zh": "歐巴賓海蠍",
+  "scientific_name": "Opabinia regalis",
+  "period": "寒武紀・烏溜期 Cambrian / Wuliuan",
+  "habitat": "海洋近底層；化石產於加拿大伯吉斯頁岩的 Walcott 與 Raymond 採石場。 [1]",
+  "diet": "推測為捕食者，以長吻末端的爪狀構造抓取食物；具體獵物尚不確定。 [1]",
+  "size": "博物館記載體長約 4.3–7.0 公分（不含長吻）；另有含長吻長度為 10.1 公分的標本，測量範圍不可混用。 [1]",
+  "summary": "五隻眼睛與末端帶爪的長吻，留下寒武紀生命形態的獨特線索。",
+  "features": [
+    "頭部具有五隻眼睛。 [1]",
+    "柔軟長吻末端具相對的爪狀構造；口位於腹側、朝向後方。 [1]",
+    "軀幹兩側具葉片與鰓構造，尾端有扇狀構造。 [1]"
+  ],
+  "story": [
+    {
+      "title": "五眼與長吻的線索",
+      "kind": "化石證據",
+      "text": "保存的標本顯示五眼、長吻與側葉這組少見的形態組合。化石讓我們辨認構造，卻不直接記錄牠如何使用它們。",
+      "source_refs": [
+        1
+      ]
+    },
+    {
+      "title": "將食物送向腹側",
+      "kind": "功能推論",
+      "text": "研究者推測，長吻可彎曲，將抓取的食物送向朝後開口的嘴；側葉與尾扇則可能協助游泳及轉向。這些是依形態提出的解釋，並非直接觀察到的行為。",
+      "source_refs": [
+        1
+      ]
+    },
+    {
+      "title": "演化樹上的位置仍在討論",
+      "kind": "研究限制",
+      "text": "現代研究將歐巴賓海蠍置於真節肢動物的幹群，用來理解早期身體構造的演變；這不等於認定牠是現生類群的直接祖先。牠與其他早期分支的精確關係，以及是否具有葉足，仍有不同解讀。",
+      "source_refs": [
+        1,
+        2
+      ]
+    }
+  ],
+  "image": "assets/images/opabinia-regalis-hero.webp",
+  "image_metadata": {
+    "type": "ai",
+    "description": "使用者提供的 AI 生成藝術復原圖：歐巴賓海蠍的寒武紀海洋場景。原始檔：opabinia-regalis-hero.png；構圖、體色及解剖細節含藝術想像，並非化石證據或經科學校訂的解剖圖。",
+    "author": "使用者提供；生成工具與模型未註明",
+    "license": "使用者提供供本專案使用；未提供額外再授權條款"
+  },
+  "uncertainty_notes": [
+    "體長是否包含長吻會影響比較，請保留測量範圍。",
+    "葉足的存在與鰓相對側葉的位置仍有爭議；藝術復原不應掩蓋這些限制。"
+  ],
+  "sources": [
+    {
+      "title": "Opabinia regalis — The Burgess Shale",
+      "organization_or_author": "Royal Ontario Museum",
+      "url": "https://burgess-shale.rom.on.ca/fossils/opabinia-regalis/",
+      "accessed_date": "2026-11-15"
+    },
+    {
+      "title": "New opabiniid diversifies the weirdest wonders of the euarthropod stem group (2022)",
+      "organization_or_author": "Pates, Wolfe, Lerosey-Aubril, Daley & Ortega-Hernández / Proceedings of the Royal Society B",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10208441/",
+      "accessed_date": "2026-11-15"
+    }
+  ]
+}

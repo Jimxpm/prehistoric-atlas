@@ -1,0 +1,73 @@
+{
+  "id": "dunkleosteus-terrelli",
+  "name_zh": "鄧氏魚",
+  "scientific_name": "Dunkleosteus terrelli",
+  "period": "晚泥盆世・法門期 Late Devonian / Famennian",
+  "habitat": "海洋環境；著名化石產地為美國俄亥俄州的 Cleveland Shale。 [1, 2]",
+  "diet": "肉食性；顎部形態支持捕食大型脊椎動物的能力，但不能據此確定完整食譜或每次捕食方式。 [3]",
+  "size": "體長仍依模型推估。2023 年頭部比例法估計典型成體約 3.4 公尺、研究中最大個體約 4.1 公尺；不是完整身體化石的實測值，也不是無誤差的物種上限。 [1]",
+  "summary": "從堅硬的頭胸甲到如刀刃的顎板，探索泥盆紀捕食者，也看見全身復原留下的未知。",
+  "features": [
+    "頭部與胸部具有骨質甲板；胸甲後方身體保存不完整。 [1, 2]",
+    "顎板具有尖突與鋒利的骨質切割邊緣，不應直接畫成現生鯊魚式齒列。 [3]",
+    "2024 年復原提出較短而深厚的軀幹，屬受化石約束的推論。 [2]"
+  ],
+  "story": [
+    {
+      "title": "堅硬甲板之外，仍有大片空白",
+      "kind": "化石證據與復原",
+      "text": "鄧氏魚最常保存的是頭胸部甲板，軀體後段的形態則所知有限。2024 年研究結合保存構造、甲板比例與魚類解剖比較，提出深厚軀幹的復原；尾部輪廓與軟組織不能視為直接觀察到的事實。",
+      "source_refs": [
+        2
+      ]
+    },
+    {
+      "title": "體長為何會改變？",
+      "kind": "模型估算",
+      "text": "2023 年研究以眼眶至鰓蓋區域的長度和魚類比較資料建立估算，得到比常見舊復原更短的身體。結果取決於比較樣本、比例假設與個體差異；圖鑑採用有方法說明的估值，同時保留誤差與修訂空間。",
+      "source_refs": [
+        1
+      ]
+    },
+    {
+      "title": "刀刃般的顎，不等於已知的捕食劇本",
+      "kind": "功能推論與限制",
+      "text": "顎板的尖突和切割面支持大型獵物捕食的解釋。但新的比較解剖研究重新討論顎肌附著，指出過去吸食假說與咬合力估算仍需檢驗。頁面因此不列出單一確定的咬合力，也不將模型當作行為紀錄。",
+      "source_refs": [
+        3
+      ]
+    }
+  ],
+  "image": "assets/images/dunkleosteus-terrelli-hero.webp",
+  "image_metadata": {
+    "type": "ai",
+    "description": "使用者提供的 AI 生成藝術復原圖：鄧氏魚的泥盆紀海洋場景。原始檔：dunkleosteus-terrelli-hero.png；構圖、體色及解剖細節含藝術想像，並非化石證據或經科學校訂的解剖圖。",
+    "author": "使用者提供；生成工具與模型未註明",
+    "license": "使用者提供供本專案使用；未提供額外再授權條款"
+  },
+  "uncertainty_notes": [
+    "體長數字是特定研究與標本的估算，不是直接量測完整活體。",
+    "身體後段、體色與軟組織細節仍有復原空間；本頁圖片不是比例尺或解剖圖。",
+    "食性功能可以由形態推論，但具體獵物組合與吸食能力不宜過度確定。"
+  ],
+  "sources": [
+    {
+      "title": "A Devonian Fish Tale: A New Method of Body Length Estimation Suggests Much Smaller Sizes for Dunkleosteus terrelli (2023)",
+      "organization_or_author": "Russell K. Engelman / Diversity",
+      "url": "https://www.mdpi.com/1424-2818/15/3/318",
+      "accessed_date": "2026-11-15"
+    },
+    {
+      "title": "Reconstructing Dunkleosteus terrelli: A new look for an iconic Devonian predator (2024)",
+      "organization_or_author": "Russell K. Engelman / Palaeontologia Electronica",
+      "url": "https://www.palaeo-electronica.org/content/2024/5307-dunkleosteus-reconstruction",
+      "accessed_date": "2026-11-15"
+    },
+    {
+      "title": "Functional anatomy, jaw mechanisms, and feeding behavior of Dunkleosteus terrelli (2025 線上發表；2026 卷期)",
+      "organization_or_author": "Engelman, Carr, Trinajstic, Johanson & Lebedev / The Anatomical Record",
+      "url": "https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.70075",
+      "accessed_date": "2026-11-15"
+    }
+  ]
+}

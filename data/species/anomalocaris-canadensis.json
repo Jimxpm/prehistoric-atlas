@@ -1,0 +1,67 @@
+{
+  "id": "anomalocaris-canadensis",
+  "name_zh": "奇蝦",
+  "scientific_name": "Anomalocaris canadensis",
+  "period": "寒武紀・烏溜期 Cambrian / Wuliuan",
+  "habitat": "海洋水層；化石見於加拿大伯吉斯頁岩。 [1]",
+  "diet": "肉食性；2023 年模型研究支持捕食游泳且身體柔軟的動物，而非壓碎硬殼獵物。 [2]",
+  "size": "完整標本約 25 公分；博物館依零散化石推估較大個體可能達約 1 公尺，並非完整標本實測值。 [1]",
+  "summary": "循著帶刺的前附肢與側葉，認識寒武紀水層中的捕食者，以及持續改變的科學解讀。",
+  "features": [
+    "一對帶刺、分節的前附肢。 [1]",
+    "具柄的眼睛與朝下的口器。 [1]",
+    "身體兩側的游泳葉片與尾扇。 [1]"
+  ],
+  "story": [
+    {
+      "title": "從碎片，拼回一個生命",
+      "kind": "化石證據",
+      "text": "早期研究曾將奇蝦的前附肢誤認為蝦的身體。相連標本的發現，讓分散的構造逐漸回到同一幅身體圖像中。化石提供形態線索，卻不是活體行為的直接紀錄。",
+      "source_refs": [
+        1
+      ]
+    },
+    {
+      "title": "捕食者，也有力學上的限制",
+      "kind": "模型推論",
+      "text": "2023 年研究結合三維重建、運動學、有限元素分析與流體模擬，測試前附肢的功能。結果支持抓取獵物，但不支持以此壓碎堅硬外殼；作者推測牠是捕捉水層中身體柔軟的獵物的敏捷游泳者。",
+      "source_refs": [
+        2
+      ]
+    },
+    {
+      "title": "讓未知留在圖鑑裡",
+      "kind": "研究限制",
+      "text": "模型需要對材料與運動方式作出假設，不能直接重現每一次捕食。具體獵物名單仍不確定；體長也必須區分完整化石的測量與零散部位的外推。",
+      "source_refs": [
+        1,
+        2
+      ]
+    }
+  ],
+  "image": "assets/images/anomalocaris-canadensis-hero.webp",
+  "image_metadata": {
+    "type": "ai",
+    "description": "使用者提供的 AI 生成藝術復原圖：奇蝦在寒武紀海洋中的近距離復原場景。原始檔：anomalocaris-canadensis-hero.png；非真實化石影像，形態與生態細節包含藝術想像。",
+    "author": "使用者提供；生成工具與模型未註明",
+    "license": "使用者提供供本專案使用；未提供額外再授權條款"
+  },
+  "uncertainty_notes": [
+    "年代使用地層名稱，避免將不同定年的近似年數混為精確日期。",
+    "不把其他放射齒類的體型或習性直接套用到本種。"
+  ],
+  "sources": [
+    {
+      "title": "Anomalocaris canadensis — The Burgess Shale",
+      "organization_or_author": "Royal Ontario Museum",
+      "url": "https://burgess-shale.rom.on.ca/fossils/anomalocaris-canadensis/",
+      "accessed_date": "2026-11-15"
+    },
+    {
+      "title": "Raptorial appendages of the Cambrian apex predator Anomalocaris canadensis are built for soft prey and speed (2023)",
+      "organization_or_author": "Bicknell et al. / Proceedings of the Royal Society B",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37403497/",
+      "accessed_date": "2026-11-15"
+    }
+  ]
+}
